@@ -15,4 +15,4 @@ lotto = 'haramss_lotto.lotto:lotto'
 
 
 [tool.pdm]
-distribution = false
+distribution = true
