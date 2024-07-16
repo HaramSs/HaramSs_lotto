@@ -10,6 +10,9 @@ requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
 
+[project.scripts]
+lotto = 'haramss_lotto.lotto:lotto'
+
 
 [tool.pdm]
 distribution = false
